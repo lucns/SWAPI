@@ -27,7 +27,7 @@ Foram usadas as bibliotecas:
   - connectivity_plus: 4.0.2
     - Para checar o tipo de conexão à internet.
   - http: 1.1.0
-    - Para acesso a internet.
+    - Para conexçao às apis.
 
 [APK](https://drive.google.com/file/d/19L6oxsj_XwdVgTgEQ0oAsTE9Zpb8gsNL/view?usp=drive_link) Google Drive - 27Mb
 <br>Não deu pra hospedar aqui pois o APK ultrapassou os 25Mb permitidos pelo GitHub.
