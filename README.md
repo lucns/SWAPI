@@ -2,7 +2,8 @@
 Um flutter app desenvolvivo para acasso a uma api, com o proposito de medir nivels de conhecimento.
 
 As etapas dentro do app são bem simples. 
-Há um botao no canto direito, superior que altera o tema do app. Tambem é possivel alterar posteriormente no botao de menu, no canto superior direito após realizar o acesso.
+Há um botao branco no canto direito, inferior que altera o tema do app. 
+Mas tambem é possivel alterar posteriormente no botao de menu, no canto superior direito após realizar o acesso.
 
 Primeiro deve-se criar uma conta de usuário, clicando em **Primeiro Acesso**.<br>
 ![Screenshot_20230911-093045-tile](https://github.com/lucns/SWAPI/assets/16022034/304d00a4-9032-454c-8ad6-a8a7a1adf1ec)
