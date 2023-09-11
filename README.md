@@ -31,4 +31,4 @@ Foram usadas as bibliotecas:
 
 [APK](https://drive.google.com/file/d/19L6oxsj_XwdVgTgEQ0oAsTE9Zpb8gsNL/view?usp=drive_link) Google Drive - 27Mb
 <br>Não deu pra hospedar aqui pois o APK ultrapassou os 25Mb permitidos pelo GitHub.
-<br>Flutter é complicado, um simples app já pula pros 30Mb rapidinho. Em java o mesmo app não chegaria nem a 100kb.
+<br>Os apps flutter rapidinho chega nos +30Mb. Em java o mesmo app não chegaria nem a 100kb. E não seria necessario nenhuma biblioteca externa ou de terceiros.
