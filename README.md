@@ -4,20 +4,20 @@ Um flutter app desenvolvivo para acasso a uma api, com o proposito de medir nive
 As etapas dentro do app são bem simples. 
 Há um botao no canto direito, superior que altera o tema do app. Tambem é possivel alterar posteriormente no botao de menu, no canto superior direito após realizar o acesso.
 
-Primeiro deve-se criar uma conta de usuário, clicando em **Primeiro Acesso**.
+Primeiro deve-se criar uma conta de usuário, clicando em **Primeiro Acesso**.-- hit
 ![Screenshot_20230911-093045-tile](https://github.com/lucns/SWAPI/assets/16022034/304d00a4-9032-454c-8ad6-a8a7a1adf1ec)
-Tela de login.
+-- hit Tela de login.
 
 
-É NECESSÁRIO QUE A SENHA TENHA PELO MENOS 4 CARACTERES.
+É NECESSÁRIO QUE A SENHA TENHA PELO MENOS 4 CARACTERES.-- hit
 ![Screenshot_20230911-093103](https://github.com/lucns/SWAPI/assets/16022034/47ad2f2b-76d3-4f00-b2a3-211f3fd7142a)
-Tela de criação de novo usuário.
+-- hit Tela de criação de novo usuário.
 
 
 Depois fazer login clicando no botão **Acessar**.
-A tela principal irá aparecer. Nela haverá alguns cards. Cada um deles abre uma lista de itens.
+A tela principal irá aparecer. Nela haverá alguns cards. Cada um deles abre uma lista de itens.-- hit
 ![Screenshot_20230911-093134-tile](https://github.com/lucns/SWAPI/assets/16022034/93b32d11-8fce-4689-b399-2608dbafcf0d)
-Tela do conteúdo do app.
+-- hit Tela do conteúdo do app.
 
 
 Foram usadas as bibliotecas:
