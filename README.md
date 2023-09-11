@@ -1,8 +1,7 @@
-# SWAPI 
+# SWAPI ![icon_grogu](https://github.com/lucns/SWAPI/assets/16022034/2ccf4126-51df-4158-94b5-7dfb54c09339)
+
 
 Um flutter app desenvolvivo para acasso a uma api, com o proposito de medir nivels de conhecimento.
-![icon_grogu](https://github.com/lucns/SWAPI/assets/16022034/cd73e961-153b-4aeb-9a82-0d7b4e0f132f)
-
 As etapas dentro do app são bem simples. 
 Há um botao branco no canto direito, inferior que altera o tema do app. 
 Mas tambem é possivel alterar posteriormente no botao de menu, no canto superior direito após realizar o acesso.
