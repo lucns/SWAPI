@@ -23,12 +23,18 @@ A tela principal irá aparecer. Nela haverá alguns cards. Cada um deles abre um
 
 
 Foram usadas as bibliotecas:
-  - path: 1.8.2
-    - Para acesso aos diretórios onde os dados serão salvos.
-  - connectivity_plus: 4.0.2
-    - Para checar o tipo de conexão à internet.
-  - http: 1.1.0
-    - Para conexçao às apis.
+  connectivity_plus
+  dio
+  toast
+  
+  shared_preferences
+  mobx
+  flutter_mobx
+  
+  drift
+  sqlite3_flutter_libs
+  path_provider
+  path
 
 [APK](https://drive.google.com/file/d/19L6oxsj_XwdVgTgEQ0oAsTE9Zpb8gsNL/view?usp=drive_link) Google Drive - 26,5Mb
 <br>Não deu pra hospedar aqui pois o APK ultrapassou os 25Mb permitidos pelo GitHub.
